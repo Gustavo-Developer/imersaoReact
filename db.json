@@ -1,0 +1,82 @@
+{
+    "bg": "https://wallpaperaccess.com/full/968401.jpg",
+    "title": "Quiz das Galáxias - Alura",
+    "description": "Teste os seus conhecimentos sobre o universo e confira  seus resultados!",
+    "questions": [
+      {
+        "image": "https://media.giphy.com/media/njZPp4pQ0g4fe/giphy.gif",
+        "title": "O que são galáxias?",
+        "description": "Essa é só pra esquentar o assunto!",
+        "answer": 0,
+        "alternatives": [
+          "Na cosmologia, uma galáxia é um grande sistema, gravitacionalmente ligado, que consiste de estrelas, remanescentes de estrelas, um meio interestelar de gás e poeira",
+          "É uma fruta que só conseguimos encontrar na Amazônia",
+          "É um procedimento cirúrgico ",
+          "É uma forma geométrica "
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/s1P4kzgXdyZK8/giphy.gif",
+        "title": "Júpiter, Saturno, Urano e Netuno são planetas:",
+        "description": "Lá vai mais uma questão",
+        "answer": 0,
+        "alternatives": [
+           "Gasosos",
+           "Menores do que a Terra"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/aN9GqoR7OD3nq/giphy.gif",
+        "title": "Em que data o homem foi a Lua?",
+        "description": "Vamo la",
+        "answer": 1,
+        "alternatives": [
+           " 17 de outubro de 1976 às 17h45min",
+           " 20 de julho de 1969 às 20h17min",
+           " 14 de setembro de 2001 às 18h11min"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/l3c614V12UA82q1vG/giphy.gif",
+        "title": "Qual é o nome do lugar onde nascem as estrelas?",
+        "description": "Você consegue",
+        "answer": 0,
+        "alternatives": [
+           "nebulosa",
+           "Pasta de dente",
+           "Fazenda"
+        ]
+      } ,
+      {
+        "image": "https://media.giphy.com/media/m6xHedeVlSDIY/giphy.gif",
+        "title": "O cometa Halley é visto da Terra de quando em quanto tempo?",
+        "description": "Mostra que voce sabe",
+        "answer": 2,
+        "alternatives": [
+           "2 semanas",
+           "30 anos",
+           "76 anos"
+        ]
+      }                   
+    ],
+    "external": [
+      "https://aluraquiz-css.omariosouto.vercel.app/",
+      "https://aluraquiz-marvel.omariosouto.vercel.app/"
+    ],
+    "internal": [
+      "https://raw.githubusercontent.com/gustavouchoa/dotnetquiz/main/db.json",
+      "https://raw.githubusercontent.com/andermsilva/quiz-ander/main/db.json",
+      "https://raw.githubusercontent.com/ThiagoDC1001/mastermindquiz/main/db.json"
+    ],    
+    "theme": {
+      "colors": {
+        "primary": "#f44336",
+        "secondary": "#3d5afe",
+        "mainBg": "#171B35",
+        "contrastText": "#FFFFFF",
+        "wrong": "#FF5722",
+        "success": "#4CAF50"
+      },
+      "borderRadius": "4px"
+    }
+  }
